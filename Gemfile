@@ -1,9 +1,7 @@
 
-
 # Standards and performance?
 gem 'bullet'
 gem 'rack-mini-profiler'
-gem 'rb-fsevent', '~> 0.9'
 gem 'brakeman'
 
 # Error reporting?
