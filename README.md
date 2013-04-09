@@ -1,4 +1,4 @@
-Store any useful ruby classes that are needed in every rails project
+Store any useful rails snippets, gems, classes, configurations that are used in EVERY rails project
 
 Usage
 -----
